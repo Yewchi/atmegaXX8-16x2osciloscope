@@ -3,7 +3,7 @@ Simple low-resolution (8x5 pixel characters) osciloscope and tuner, with automat
 
 Built for an Arduino UNO. Works great with simple waveforms, does okay with light frequency modulation, not suited for mixed and mastered audio.
 
-[atmegaxx8-osci.webm](https://github.com/Yewchi/atmegaXX8-16x2osciloscope/assets/1460944/86844556-39ac-42a7-aeef-dc3a1058de11)
+![atmegaxx8-osci](https://github.com/Yewchi/atmegaXX8-16x2osciloscope/assets/1460944/cd91a10a-577b-43a8-b75b-348e5d01a2d2)
 
 ## warranty
 NO WARRANTY
@@ -28,10 +28,19 @@ Requires: Arduino LiquidCrystal library
 
 reads voltage signal into Analog IN 0
 
+
 Assuming your LCD is QC1602A-like:
+
 LCD_RS digital 12
+
 LCD_ENABLE digital pin 11
+
 LCD_D4 digital pin 5
+
 LCD_D5 digital pin 4
+
 LCD_D6 digital pin 3
+
 LCD_D7 digital pin 2
+
+[atmegaxx8-osci.webm](https://github.com/Yewchi/atmegaXX8-16x2osciloscope/assets/1460944/86844556-39ac-42a7-aeef-dc3a1058de11)
