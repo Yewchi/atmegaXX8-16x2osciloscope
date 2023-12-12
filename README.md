@@ -3,6 +3,8 @@ Simple low-resolution (8x5 pixel characters) osciloscope and tuner, with automat
 
 Built for an Arduino UNO. Works great with simple waveforms, does okay with light frequency modulation, not suited for mixed and mastered audio.
 
+[atmegaxx8-osci.webm](https://github.com/Yewchi/atmegaXX8-16x2osciloscope/assets/1460944/86844556-39ac-42a7-aeef-dc3a1058de11)
+
 ## warranty
 NO WARRANTY
 
